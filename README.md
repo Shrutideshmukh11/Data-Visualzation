@@ -1,2 +1,2 @@
-# Data-Visualzation
+# Data-Visualization
 My personal work
